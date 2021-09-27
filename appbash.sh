@@ -23,9 +23,14 @@ fbashsix()
 {
 	echo "I am Function Six"
 }
+fbashseven()
+{
+	echo "I am Function Seven"
+}
 fbashone
 fbashtwo
 fbashthree
 fbashfour
 fbashfive
 fbashsix
+fbashseven
