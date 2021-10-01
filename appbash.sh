@@ -83,6 +83,10 @@ fbashtwentyone()
 {
 	echo "I am Function Twenty One"
 }
+fbashtwentytwo()
+{
+	echo "I am Function Twenty Two"
+}
 fbashone
 fbashtwo
 fbashthree
@@ -104,3 +108,4 @@ fbasheighteen
 fbashnineteen
 fbashtwenty
 fbashtwentyone
+fbashtwentytwo
