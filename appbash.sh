@@ -379,6 +379,10 @@ fbashninetyfive()
 {
 	echo "I am Function Ninety Five"
 }
+fbashninetysix()
+{
+	echo "I am Function Ninety Six"
+}
 fbashone
 fbashtwo
 fbashthree
@@ -474,3 +478,4 @@ fbashninetytwo
 fbashninetythree
 fbashninetyfour
 fbashninetyfive
+fbashninetysix
